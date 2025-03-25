@@ -1,0 +1,5 @@
+,Model,Accuracy & Relevance (40%),RAG Support (35%),Performance (15%),Final Weighted Score
+0,OpenAI GPT-4o Mini,5,5,4,4.35
+2,Llama 3.3 70B Instruct,5,5,4,4.35
+1,DeepSeek V3,5,5,2,4.05
+3,Gemini 2.0 Flash,5,4,3,3.8499999999999996
